@@ -30,4 +30,13 @@ Implementaciones
 
 > El archivo test_with_unittest.py contiene las 2 pruebas unitarias
 
+ALGUNAS VISTAS:
 
+
+[![Aplicación](https://raw.githubusercontent.com/SuperDesarroll/detector_neumonia/main/reportes/01.jpeg?token=GHSAT0AAAAAAB5QOPAJSGBY6KGSBQKEBIIQZA42QMA "Aplicación")](https://raw.githubusercontent.com/SuperDesarroll/detector_neumonia/main/reportes/01.jpeg?token=GHSAT0AAAAAAB5QOPAJSGBY6KGSBQKEBIIQZA42QMA "Aplicación")
+
+Pruebas Unitarias:
+
+![Pruebas Unitarias](https://raw.githubusercontent.com/SuperDesarroll/detector_neumonia/main/reportes/02.jpeg?token=GHSAT0AAAAAAB5QOPAJCCRVCJ2N2MWU272AZA42RJA "Pruebas Unitarias")
+
+![Pruebas Unitarias](https://raw.githubusercontent.com/SuperDesarroll/detector_neumonia/main/reportes/03.jpeg?token=GHSAT0AAAAAAB5QOPAIWUB6BW6AAUYHIXM2ZA42RYQ "Pruebas Unitarias")
