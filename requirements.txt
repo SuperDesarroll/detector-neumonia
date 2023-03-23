@@ -1,0 +1,6 @@
+pyautogui
+pillow
+tkcap
+pydicom
+img2pdf
+opencv_python
